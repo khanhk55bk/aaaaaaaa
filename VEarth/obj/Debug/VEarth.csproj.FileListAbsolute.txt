@@ -1,0 +1,8 @@
+C:\Sources\Codeplex\Bing Maps\VEarth\bin\Debug\VirtualEarth.html
+C:\Sources\Codeplex\Bing Maps\VEarth\bin\Debug\VEarth.dll
+C:\Sources\Codeplex\Bing Maps\VEarth\bin\Debug\VEarth.pdb
+C:\Sources\Codeplex\Bing Maps\VEarth\obj\Debug\ResolveAssemblyReference.cache
+C:\Sources\Codeplex\Bing Maps\VEarth\obj\Debug\VEarth.ucVEarth.resources
+C:\Sources\Codeplex\Bing Maps\VEarth\obj\Debug\VEarth.csproj.GenerateResource.Cache
+C:\Sources\Codeplex\Bing Maps\VEarth\obj\Debug\VEarth.dll
+C:\Sources\Codeplex\Bing Maps\VEarth\obj\Debug\VEarth.pdb

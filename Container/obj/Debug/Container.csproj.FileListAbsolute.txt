@@ -1,0 +1,12 @@
+C:\Sources\Codeplex\Bing Maps\Container\bin\Debug\Container.exe.config
+C:\Sources\Codeplex\Bing Maps\Container\bin\Debug\VirtualEarth.html
+C:\Sources\Codeplex\Bing Maps\Container\bin\Debug\Container.exe
+C:\Sources\Codeplex\Bing Maps\Container\bin\Debug\Container.pdb
+C:\Sources\Codeplex\Bing Maps\Container\bin\Debug\VEarth.dll
+C:\Sources\Codeplex\Bing Maps\Container\bin\Debug\VEarth.pdb
+C:\Sources\Codeplex\Bing Maps\Container\obj\Debug\ResolveAssemblyReference.cache
+C:\Sources\Codeplex\Bing Maps\Container\obj\Debug\Container.FrmDemo.resources
+C:\Sources\Codeplex\Bing Maps\Container\obj\Debug\Container.Properties.Resources.resources
+C:\Sources\Codeplex\Bing Maps\Container\obj\Debug\Container.csproj.GenerateResource.Cache
+C:\Sources\Codeplex\Bing Maps\Container\obj\Debug\Container.exe
+C:\Sources\Codeplex\Bing Maps\Container\obj\Debug\Container.pdb
